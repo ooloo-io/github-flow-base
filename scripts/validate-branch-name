@@ -21,6 +21,7 @@ if [ ${BRANCH_NAME_LENGTH} -eq 0 ] ; then
   echo "  footer"
   echo "  content-container"
   echo "  top-section"
+  echo " Try"
   echo "  bottom-section"
   echo
   exit 1
